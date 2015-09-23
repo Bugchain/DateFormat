@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Sample DateFormat</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="letter_items">
+        <item>G</item>
+        <item>y</item>
+        <item>Y</item>
+        <item>M</item>
+        <item>w</item>
+        <item>W</item>
+        <item>D</item>
+        <item>d</item>
+        <item>F</item>
+        <item>E</item>
+        <item>u</item>
+        <item>a</item>
+        <item>H</item>
+        <item>k</item>
+        <item>K</item>
+        <item>h</item>
+        <item>m</item>
+        <item>s</item>
+        <item>S</item>
+        <item>z</item>
+        <item>Z</item>
+        <item>X</item>
+    </string-array>
+
+    <string-array name="component_items">
+        <item>Era designator</item>
+        <item>Year</item>
+        <item>Week year</item>
+        <item>Month in year</item>
+        <item>Week in year</item>
+        <item>Week in month</item>
+        <item>Day in year</item>
+        <item>Day in month</item>
+        <item>Day of week in month</item>
+        <item>Day name in week</item>
+        <item>Day number of week</item>
+        <item>Am/pm marker</item>
+        <item>Hour in day (0-23)</item>
+        <item>Hour in day (1-24)</item>
+        <item>Hour in am/pm (0-11)</item>
+        <item>Hour in am/pm (1-12)</item>
+        <item>Minute in hour</item>
+        <item>Second in minute</item>
+        <item>Millisecond</item>
+        <item>Time zone</item>
+        <item>Time zone</item>
+        <item>Time zone</item>
+    </string-array>
+
+    <string-array name="presentation_items">
+        <item>Text</item>
+        <item>Year</item>
+        <item>Year</item>
+        <item>Month</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Text</item>
+        <item>Number</item>
+        <item>Text</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>Number</item>
+        <item>General time zone</item>
+        <item>RFC 822 time zone</item>
+        <item>ISO 8601 time zone</item>
+    </string-array>
+
+    <string-array name="example_items">
+        <item>AD</item>
+        <item>1996; 96</item>
+        <item>2009; 09</item>
+        <item>July; Jul; 07</item>
+        <item>27</item>
+        <item>2</item>
+        <item>189</item>
+        <item>10</item>
+        <item>2</item>
+        <item>Tuesday; Tue</item>
+        <item>1</item>
+        <item>PM</item>
+        <item>0</item>
+        <item>24</item>
+        <item>0</item>
+        <item>12</item>
+        <item>30</item>
+        <item>55</item>
+        <item>978</item>
+        <item>Pacific Standard Time; PST; GMT-08:00</item>
+        <item>-0800</item>
+        <item>-08; -0800; -08:00</item>
+    </string-array>
+
+</resources>

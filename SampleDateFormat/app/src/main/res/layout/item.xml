@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:gravity="center_vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="8dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp"
+    android:layout_marginBottom="1px">
+
+    <TextView
+        android:id="@+id/textLetter"
+        android:layout_width="wrap_content"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textComponent"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_marginLeft="20dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textPresentation"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textExample"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
